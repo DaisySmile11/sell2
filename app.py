@@ -6,34 +6,34 @@ app.secret_key = 'x12eifgrFE'
 
 best_sellers = [
     {
-        'picture': 'Iphone14pro.jpg',
+        'picture': 'iPhone14pro.jpg',
         'name': 'Iphone 14 Pro',
         'price': '$1199',
         'feature': '256GB, 6.1"'
     },
 
     {
-        'picture': 'SamsungGalaxyS23.jpg',
+        'picture': 'samsunggalaxys23.jpg',
         'name': 'Samsung Galaxy S23',
         'price': '$1099',
         'feature': 'Ultra 5G 256GB, 6.8"'
     },
 
     {
-        'picture': 'Iphone14promax.jpg',
+        'picture': 'iPhone14promax.jpg',
         'name': 'Iphone 14 Pro Max',
         'price': '$1499',
         'feature': '512GB, 6.7"'
     },
     {
-        'picture': 'OPPOFindN2.jpg',
+        'picture': 'oppofindn2.jpg',
         'name': 'OPPO Find N2',
         'price': '$899',
         'feature': '256GB Flip 5G 6.8"'
     },
 
     {
-        'picture': 'Iphone14.jpeg',
+        'picture': 'iphone14.jpeg',
         'name': 'Iphone 14',
         'price': '$799',
         'feature': '128GB, 6.1"'
@@ -47,42 +47,42 @@ best_sellers = [
     },
 
     {
-        'picture': 'iPadmini6.jpg',
+        'picture': 'ipadmini6.jpg',
         'name': 'iPad mini 6',
         'price': '$699',
         'feature': '8.3" WiFi Cellular 64GB'
     },
 
     {
-        'picture': 'SamsungTab.jpg',
+        'picture': 'samsungtab.jpg',
         'name': 'Samsung Galaxy Tab',
         'price': '$1099',
         'feature': '14.6" S8 Ultra 5G'
     },
 
     {
-        'picture': 'LenovoYogaDuet7.jpg',
+        'picture': 'lenovoyogaduet7.jpg',
         'name': 'Lenovo Yoga Duet 7',
         'price': '$799',
         'feature': '14" i5 1135G7/8GB/512GB/Touch/Pen'
     },
 
     {
-        'picture': 'MacBookAir.jpg',
+        'picture': 'macbookair.jpg',
         'name': 'MacBook Air',
         'price': '$1199',
         'feature': '13.6" M2 2022 8-core GPU'
     },
 
     {
-        'picture': 'MSIgaming.jpg',
+        'picture': 'msigaming.jpg',
         'name': 'MSI Gaming',
         'price': '$1299',
         'feature': '15.6" i7 12650H/8GB/512GB'
     },
 
     {
-        'picture': 'AcerSwift.jpg',
+        'picture': 'acerswift.jpg',
         'name': 'Acer Swift 3',
         'price': '$799',
         'feature': '14" i5 1240P/16GB/512GB/Win11'
